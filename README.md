@@ -35,10 +35,10 @@
 
 <h3>Project Members:</h3>
 
- Murtaza Ahmad Bazaz
- Kaleem Ali
- Muied Zahoor
+- Murtaza Ahmad Bazaz
+- Kaleem Ali
+- Muied Zahoor
 
 <h3>Project Supervisor:</h3>
 
- Dr. Hushmat Amin Kar 
+- Dr. Hushmat Amin Kar 
