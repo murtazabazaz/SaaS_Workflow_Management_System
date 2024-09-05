@@ -1,38 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>SaaS Workflow Management System</h1>
+<p>The SaaS Workflow Management System is a powerful platform that simplifies and automates business processes. With a drag-and-drop interface, users can create workflows by integrating various apps and services without coding. Scalable for all business sizes, its secure cloud-native architecture ensures high performance and data protection. Ideal for driving efficiency, consistency, and cost savings, this system supports digital transformation.</p>
 
-## Getting Started
+<h2> System Design</h2>
+<p>The system is a B2C SaaS platform designed to integrate various third-party services (Google Drive, Slack, Discord, Notion) with real-time monitoring and automation capabilities. The platform supports subscription-based payments via Stripe and provides a user-friendly interface with advanced UI features.</p>
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<h2>Features:</h2>
+- Authentication & Authorization: Secure user login and management using JWT tokens.
+- Integration Management: UI for connecting Google Drive, Slack, Discord, and Notion accounts.
+- Node Interface & Builder: A drag-and-drop interface for building automation workflows.
+- Mini Map & Infinite Canvas: Visualization tools to help users manage and navigate their workflows.
+- Light & Dark Mode: Customizable UI with an expandable sidebar.
+- Landing Page: A beautifully designed landing page for marketing and user onboarding.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h2>Project Images</h2>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* ## Landing Page:
+![](Project-Images/landing_page.png)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+* ## Sign In Page:
+![](Project-Images/signin.png)
 
-## Learn More
+* ## Dashboard:
+![](Project-Images/dashboard.png)
 
-To learn more about Next.js, take a look at the following resources:
+* ## Connections:
+![](Project-Images/connections.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* ## Workflow:
+![](Project-Images/workflow.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+* ## Billing:
+![](Project-Images/billing.png)
 
-## Deploy on Vercel
+<h3>Project Members:</h3>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Murtaza Ahmad Bazaz
+- Kaleem Ali
+- Muied Zahoor
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# SaaS_Workflow_Management_System
-# SaaS_Workflow_Management_System
+<h3>Project Supervisor:</h3>
+
+- Dr. Hushmat Amin Kar 
