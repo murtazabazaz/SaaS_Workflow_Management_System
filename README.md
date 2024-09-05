@@ -6,12 +6,12 @@
 
 
 <h2>Features:</h2>
-- Authentication & Authorization: Secure user login and management using JWT tokens.
-- Integration Management: UI for connecting Google Drive, Slack, Discord, and Notion accounts.
-- Node Interface & Builder: A drag-and-drop interface for building automation workflows.
-- Mini Map & Infinite Canvas: Visualization tools to help users manage and navigate their workflows.
-- Light & Dark Mode: Customizable UI with an expandable sidebar.
-- Landing Page: A beautifully designed landing page for marketing and user onboarding.
+- <b>**Authentication & Authorization:** Secure user login and management using JWT tokens.</b>
+- <b>**Integration Management:** UI for connecting Google Drive, Slack, Discord, and Notion accounts.</b>
+- <b>**Node Interface & Builder:** A drag-and-drop interface for building automation workflows.</b>
+- <b>**Mini Map & Infinite Canvas:** Visualization tools to help users manage and navigate their workflows.</b>
+- <b>**Light & Dark Mode:** Customizable UI with an expandable sidebar.</b>
+- <b>**Landing Page:** A beautifully designed landing page for marketing and user onboarding.</b>
 
 <h2>Project Images</h2>
 
